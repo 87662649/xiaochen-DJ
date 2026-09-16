@@ -1,8 +1,5 @@
 # 小陈电音社DJ
-
-这里存放软件资料、网页链接
-
-## Mypal XP浏览器
+## XP浏览器
 下载页面：https://github.com/Feodor2/Mypal68/releases
 推荐下载包：mypal-78.1.0.en-US.win32.zip
 
@@ -19,3 +16,6 @@ https://github.com/mifi/lossless-cut
 https://github.com/yutils/PaddleOCR-UI
 ## 软件压缩
 https://github.com/codeforreal1/compressO/releases
+
+## 软件AI画质增强
+https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases
