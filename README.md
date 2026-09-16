@@ -37,3 +37,6 @@ https://github.com/hmjz100/LinkSwift
 https://github.com/sparanoid/7z
 ## 软件手写模拟器
 https://github.com/bamboostrip/Handwriting-sim-rs
+## 软件Ventoy
+https://github.com/ventoy/Ventoy
+https://ventoy-zh.cn
