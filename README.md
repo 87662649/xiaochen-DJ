@@ -33,3 +33,5 @@ https://github.com/pikaqiuqiuqiuqiuqiu/FileStrongbox
 
 ## 软件LinkSwift
 https://github.com/hmjz100/LinkSwift
+## 软件ZIP解压
+https://github.com/sparanoid/7z
