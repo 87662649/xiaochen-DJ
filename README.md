@@ -30,3 +30,6 @@ https://github.com/LaoFeng-mouse/flyingmouse-format
 
 ## 软件文件保险箱 
 https://github.com/pikaqiuqiuqiuqiuqiu/FileStrongbox
+
+## 软件LinkSwift
+https://github.com/hmjz100/LinkSwift
