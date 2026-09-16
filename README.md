@@ -1,9 +1,9 @@
 # 小陈电音社DJ
 ## 软件：XP浏览器
 https://github.com/Feodor2/Mypal68/releases
-## 微信视频号下载器
+## 软件：一键下载视频号
 https://github.com/ltaoo/wx_channels_download
-## 软件视频号
+## 软件：蝴蝶号下载
 https://github.com/ltaoo/wx_channels_download/releases
 ## 软件音频编辑
 https://github.com/mifi/lossless-cut
