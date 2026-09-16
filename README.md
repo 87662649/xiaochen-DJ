@@ -1,6 +1,6 @@
 # 小陈电音社DJ
-## XP浏览器
-下载页面：https://github.com/Feodor2/Mypal68/releases
+## 软件：XP浏览器
+https://github.com/Feodor2/Mypal68/releases
 ## 微信视频号下载器
 https://github.com/ltaoo/wx_channels_download
 ## 软件视频号
