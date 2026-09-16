@@ -5,3 +5,6 @@
 ## Mypal XP浏览器
 下载页面：https://github.com/Feodor2/Mypal68/releases
 推荐下载包：mypal-78.1.0.en-US.win32.zip
+
+## 微信视频号下载器
+https://github.com/ltaoo/wx_channels_download
