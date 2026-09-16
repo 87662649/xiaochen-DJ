@@ -17,3 +17,5 @@ https://github.com/mifi/lossless-cut
 
 ## 软件图片文本识别
 https://github.com/yutils/PaddleOCR-UI
+## 软件压缩
+https://github.com/codeforreal1/compressO/releases
