@@ -22,3 +22,5 @@ https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases
 
 ## 软件MTools
 https://github.com/HG-ha/MTools/releases
+## 软件强力删除
+https://github.com/differentrain/Delapp
