@@ -41,5 +41,3 @@ https://github.com/bamboostrip/Handwriting-sim-rs
 https://github.com/ventoy/Ventoy
 ## 软件Ventoy
 https://ventoy-zh.cn
-## 软件Edge64便携增强版
-https://pan.quark.cn/s/00bc8972fd46
