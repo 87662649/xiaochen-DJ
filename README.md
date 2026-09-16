@@ -19,3 +19,6 @@ https://github.com/codeforreal1/compressO/releases
 
 ## 软件AI画质增强
 https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases
+
+## 软件MTools
+https://github.com/HG-ha/MTools/releases
