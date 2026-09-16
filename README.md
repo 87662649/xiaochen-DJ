@@ -14,3 +14,6 @@ https://github.com/ltaoo/wx_channels_download/releases
 
 ## 软件音频编辑的瑞士军刀
 https://github.com/mifi/lossless-cut
+
+## 软件图片文本识别
+https://github.com/yutils/PaddleOCR-UI
