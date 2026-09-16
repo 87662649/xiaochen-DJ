@@ -31,4 +31,6 @@ https://github.com/bamboostrip/Handwriting-sim-rs
 https://github.com/ventoy/Ventoy
 ## 软件Ventoy
 https://ventoy-zh.cn
+## 软件： 音频分离
+https://github.com/boy1dr/SpleeterGui
 
