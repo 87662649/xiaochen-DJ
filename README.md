@@ -27,3 +27,6 @@ https://github.com/differentrain/Delapp
 
 ## 软件飞鼠格式
 https://github.com/LaoFeng-mouse/flyingmouse-format
+
+## 软件文件保险箱 
+https://github.com/pikaqiuqiuqiuqiuqiu/FileStrongbox
