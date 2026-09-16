@@ -35,3 +35,5 @@ https://github.com/pikaqiuqiuqiuqiuqiu/FileStrongbox
 https://github.com/hmjz100/LinkSwift
 ## 软件ZIP解压
 https://github.com/sparanoid/7z
+## 软件手写模拟器
+https://github.com/bamboostrip/Handwriting-sim-rs
