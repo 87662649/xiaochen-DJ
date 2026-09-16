@@ -24,3 +24,6 @@ https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases
 https://github.com/HG-ha/MTools/releases
 ## 软件强力删除
 https://github.com/differentrain/Delapp
+
+## 软件飞鼠格式
+https://github.com/LaoFeng-mouse/flyingmouse-format
