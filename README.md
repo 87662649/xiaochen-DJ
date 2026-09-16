@@ -11,3 +11,6 @@ https://github.com/ltaoo/wx_channels_download
 
 ## 软件视频号
 https://github.com/ltaoo/wx_channels_download/releases
+
+## 软件音频编辑的瑞士军刀
+https://github.com/mifi/lossless-cut
