@@ -8,3 +8,6 @@
 
 ## 微信视频号下载器
 https://github.com/ltaoo/wx_channels_download
+
+## 软件视频号
+https://github.com/ltaoo/wx_channels_download/releases
